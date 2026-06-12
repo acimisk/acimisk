@@ -27,16 +27,32 @@ I'm a Full-Stack Developer and Software Engineering student, passionate about bu
 
 ---
 
-### 📌 Highlighted Roles
-* 🛠️ **Scrum Master / Lead Developer** at Smart Campus ANPR & Access Control System project.
+### 📌 Highlighted Roles & Projects
 
+* 🚀 **Full-Stack Software Engineer — UniHi Platform**
+  Engineered a comprehensive university networking and campus hub platform from the ground up. Architected the entire system end-to-end, including designing scalable database schemas, developing robust backend APIs, and building a highly responsive frontend to connect students and streamline campus interactions.
+
+* 👁️ **Lead AI & Mobile Developer — Chad Matrix (Visage)**
+  Architected and developed a Flutter-based AI Looksmax & Facial Structure analysis application. Built a secure, production-ready mobile app integrated with a high-performance Python (FastAPI) backend to evaluate complex biometric matrices (FWHR, facial symmetry, hunter eyes).
+
+* 🤖 **Automation Engineer — Autonomous Video Production System**
+  Engineered an end-to-end automated content creation system utilizing Python and Apify. Designed hands-free workflows for social media data scraping, media transformation, and dynamic video generation.
+
+* 🪪 **Scrum Master & Software Developer — Smart Campus ANPR System**
+  Facilitated Agile/Scrum processes and managed team dynamics for a cloud-connected Smart Campus Automatic Number Plate Recognition (ANPR) and Access Control System. Contributed to system integration for real-time computer vision-based gate automation.
+
+* 🛡️ **Cybersecurity Researcher — Penetration Testing & Web Security**
+  Actively exploring network security, conducting automated threat detection, and vulnerability assessments. Experienced in sitemap penetration testing, SQL injection simulations, and utilizing industry-standard tools like Nmap, Metasploit, and Burp Suite.
 ---
 
 ### 📊 GitHub Stats & Dynamics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=acimisk&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Kenan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acimisk&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" width="44%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acimisk&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
