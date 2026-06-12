@@ -35,8 +35,12 @@ I'm a Full-Stack Developer and Software Engineering student, passionate about bu
 ### 📊 GitHub Stats & Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acimisk&show_icons=true&theme=tokyonight" alt="Kenan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acimisk&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acimisk&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Kenan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acimisk&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acimisk&theme=tokyonight&v=1" alt="GitHub Streak" width="97%" />
 </p>
 
 <p align="center">
