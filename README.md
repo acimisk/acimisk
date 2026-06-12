@@ -36,7 +36,7 @@ I'm a Full-Stack Developer and Software Engineering student, passionate about bu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=acimisk&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Kenan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acimisk&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acimisk&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" width="44%" />
 </p>
 
 <p align="center">
